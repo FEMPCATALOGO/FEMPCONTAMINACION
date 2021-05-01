@@ -20,7 +20,7 @@ defaults:
       
       
 author:
-  name   : "Bicicleta"
+  name   : "Contaminación acústica"
   avatar : "img/contaminacion.png"
   bio    : "Vocabulario para la representación de datos sobre contaminación acústica."
   links:
